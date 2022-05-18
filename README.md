@@ -1,3 +1,3 @@
-# Hello
+# Hello world!
 
-Old-school one!
+The old-school one!
